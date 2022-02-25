@@ -1,5 +1,6 @@
 Hello Rust
 ====
 
-We follow the book: https://doc.rust-lang.org/book/ .
+First of all, we follow the book: https://doc.rust-lang.org/book/.
 
+Then the tutorial of tokio: https://tokio.rs/tokio/tutorial .
